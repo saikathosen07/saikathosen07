@@ -1,6 +1,7 @@
+![Web Developer](https://media.licdn.com/dms/image/D5616AQErIrkxl2dGSA/profile-displaybackgroundimage-shrink_350_1400/0/1697023039616?e=1709769600&v=beta&t=zDW7nOAU8wJJmxXYRoS1upWu6KwTbRFEmCp2ApHlMf8)
+
 ### Hi there 👋, I'am Saikat Hosen
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D5616AQErIrkxl2dGSA/profile-displaybackgroundimage-shrink_350_1400/0/1697023039616?e=1709769600&v=beta&t=zDW7nOAU8wJJmxXYRoS1upWu6KwTbRFEmCp2ApHlMf8)
 
 I am as a web developer I create beautiful and functional websites and applications using taught technologies and advanced techniques. I specialize in custom design, responsive layout, database connectivity, web server setup, and usability analysis. I develop more creative and usable web solutions by ensuring service to understand customer requirements. I possess deep knowledge that helps me create user transitions and engaging web experiences. I am ready to help achieve overall performance and user feedback by applying high-quality coding. With JavaScript, I can create active web interfaces and user interactions.
 
