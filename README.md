@@ -1,11 +1,11 @@
-### Hi there 👋, I'am Saikat Hosen
+### Assalamu alaikum, Hi 👋, I'm Saikat Hosen
 #### Web Developer
 
-I am as a web developer I create beautiful and functional websites and applications using taught technologies and advanced techniques. I specialize in custom design, responsive layout, database connectivity, web server setup, and usability analysis. I develop more creative and usable web solutions by ensuring service to understand customer requirements. I possess deep knowledge that helps me create user transitions and engaging web experiences. I am ready to help achieve overall performance and user feedback by applying high-quality coding. With JavaScript, I can create active web interfaces and user interactions.
+Welcome.
+My name is Saikat Hosen. I am a visionary web developer experienced in web platform design and development. I am proficient in WordPress and Coding. I can create dreamy websites using plugins or themes in WordPress and am confident in my technical knowledge and consistency of the coding process. I can create sites with an editorial feel that will be attractive and usable to users. We will create high-quality websites and meet clients' requirements through personal communication.
 
-I'm a featured WordPress developer specializing in the combination of Components. I take pride in the creativity and skeletal functionality I display. With Elementor, I can develop and design websites natively, as well as my in-depth knowledge of Wordpress, in WordPress development. I specialize in a built-in WooCommerce platform to create attractive and customized websites. I do everything from setup to shipping tax variation payment at E-commerce.
-
-Thanks for taking the time to learn about me.
+I am a frontend web visionary proficient in JavaScript, CSS, Bootstrap, and HTML with an advanced skill set. I can work on designs with transparency and technical versions on different devices to enhance the user experience. I am careful to master the professional web design process, and the site must be attractive and usable with an editorial feel. I work with a particular focus on people who are good at emotional design and competitive research to understand client needs.
+Thank you for giving me your time.
 Have a nice day and be well.
 
 Skills:  JS / HTML / CSS / BOOTSTRAP / WORDPRESS
